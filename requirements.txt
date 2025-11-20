@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+google-genai
+termcolor
+scikit-learn
+pandas
+torch
