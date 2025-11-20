@@ -5,7 +5,7 @@ This repo contains:
 - `mini_rag.ipynb` — main Colab/local notebook (end-to-end demo)
 - `main.py` — CLI runner to build the RAG index and answer a query
 - `requirements.txt` — Python dependencies
-- `data/wiki_movie_plots_deduped.csv` — placeholder (user should add CSV with Title,Plot)
+- `data/wiki_movie_plots_deduped.csv` — Download the dataset from https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots?resource=download&utm_source=chatgpt.com and place it in folder (user should add CSV with Title,Plot)
 
 ---
 
